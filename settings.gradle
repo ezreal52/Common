@@ -1,1 +1,1 @@
-include ':superlibrary', ':app'
+include ':superlibrary', ':app', ':super_recyclerview_sample'
