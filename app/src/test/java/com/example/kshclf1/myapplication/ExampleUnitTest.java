@@ -1,4 +1,4 @@
-package com.example.kshclf1.common;
+package com.example.kshclf1.myapplication;
 
 import org.junit.Test;
 

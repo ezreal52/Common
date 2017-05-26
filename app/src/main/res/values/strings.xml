@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Common</string>
+    <string name="app_name">My Application</string>
+
+
+    <string name="Main">Main</string>
+    <string name="Work">Work</string>
+    <string name="App">App</string>
+    <string name="Mine">Mine</string>
 </resources>

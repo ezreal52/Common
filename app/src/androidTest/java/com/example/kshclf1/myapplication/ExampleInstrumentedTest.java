@@ -1,4 +1,4 @@
-package com.example.kshclf1.common;
+package com.example.kshclf1.myapplication;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.kshclf1.common", appContext.getPackageName());
+        assertEquals("com.example.kshclf1.myapplication", appContext.getPackageName());
     }
 }

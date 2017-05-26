@@ -3,4 +3,20 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="background_title">#3F51B5</color>
+    <color name="text_sole">#F00931</color>
+    <color name="text_tuangou">#FF8E31</color>
+    <color name="text_xianshi">#1BA2E1</color>
+    <color name="text_xuni">#7E64D4</color>
+    <color name="text_Fcode">#4081E2</color>
+    <color name="text_yuyue">#EA4646</color>
+    <color name="text_yushou">#2DBBA2</color>
+    <color name="app_white">#FFFFFF</color>
+    <color name="text_home_default">#B3B1B2</color>
+    <color name="text_home_selected">#F00931</color>
+
+    <color name="bolder">#e2e2e2</color>
 </resources>
