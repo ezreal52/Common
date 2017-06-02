@@ -35,6 +35,12 @@ public class WorkFragment extends Fragment {
     private List<OneType.DatasBean.ClassListBean> dataList = new ArrayList<>();
     private ArticleAdapter articleAdapter;
 
+    @Override
+    public void onCreate(@Nullable Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        Log.d(TAG,"WorkFragment");
+    }
+
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
